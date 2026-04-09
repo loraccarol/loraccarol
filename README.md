@@ -1,4 +1,4 @@
-<h1>Hello, world! 🙂</h1>
+<h1>Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
 ```bash
 > whoami
